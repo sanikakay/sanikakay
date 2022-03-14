@@ -1,6 +1,5 @@
 ✨✨✨✨✨✨✨
 - 👋 Hi, I’m Sanika
-- 👀 Second Year Electronics Undergrad
-- 🌱 I’m currently learning programming
-- 📫 How to reach me: sanika.kalloorkar@cumminscollege.in
+- 🌱 Third Year Electronics Undergrad
+- 📫 How to reach me: sanika9876@gmail.com sanika.kalloorkar@cumminscollege.in
 ✨✨✨✨✨✨✨
